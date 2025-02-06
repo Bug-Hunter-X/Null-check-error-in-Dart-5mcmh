@@ -1,0 +1,1 @@
+This repository contains an example of a common null check error in Dart and its solution. The `bug.dart` file demonstrates the error, while `bugSolution.dart` shows how to fix it using the null-aware operator.
